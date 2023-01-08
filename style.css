@@ -1,6 +1,7 @@
 /* common style */
 * {
   margin: 0;
+  max-width: 1600px;
   font-family: "Work Sans", sans-serif;
   font-size: 16px;
   line-height: 26px;
@@ -11,7 +12,6 @@ header {
   background-image: url(images/banner/banner3.png);
   background-repeat: no-repeat;
   background-size: cover;
-  width: 1600px;
 }
 .header-banner-section {
   padding: 230px 230px;
@@ -65,4 +65,28 @@ ul li {
 }
 ul i {
   color: lightgreen;
+}
+
+/* my plans section */
+.my-plans-section {
+  margin: 0px 230px 130px 230px;
+  text-align: center;
+  color: #151414;
+}
+.plan-items {
+  display: flex;
+  margin-top: 50px;
+  justify-content: space-around;
+}
+.item-image {
+  width: 100px;
+  height: 100px;
+}
+.plan-title {
+  font-weight: 700;
+  font-size: 30px;
+  margin-bottom: 16px;
+}
+.plan-description {
+  font-size: 24px;
 }
