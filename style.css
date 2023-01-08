@@ -1,21 +1,49 @@
+/* common style */
 * {
   margin: 0;
   font-family: "Work Sans", sans-serif;
+  font-size: 16px;
+  line-height: 26px;
 }
+
+/* header section */
 header {
   background-image: url(images/banner/banner3.png);
   background-repeat: no-repeat;
   background-size: cover;
-  width: 1600;
-  height: 808;
+  width: 1600px;
 }
 .header-banner {
-    padding: 230px 230px;
-    text-align: right;
+  padding: 230px 230px;
+  text-align: right;
 }
 .title-1 {
-    
+  font-weight: 700;
+  font-size: 65px;
+  line-height: 76px;
+  color: #ffffff;
+  margin-bottom: 24px;
 }
-.header-discription {
+.header-description {
+  color: #ffffff;
+  padding-left: 650px;
+  margin-bottom: 24px;
+}
+.btn {
+  width: 160px;
+  height: 64px;
+  font-size: 20px;
+  font-weight: 600;
+  color: #005fac;
+}
+
+/* my failures section */
+.my-failures{
+
+}
+.failure-image{
+
+}
+.failure-description{
     
 }
