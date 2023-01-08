@@ -13,7 +13,7 @@ header {
   background-size: cover;
   width: 1600px;
 }
-.header-banner {
+.header-banner-section {
   padding: 230px 230px;
   text-align: right;
 }
@@ -38,12 +38,31 @@ header {
 }
 
 /* my failures section */
-.my-failures{
-
+.my-failures-section {
+  width: 1140px;
+  margin: 130px 230px;
+  display: flex;
+  align-items: center;
+  color: #151414;
 }
-.failure-image{
-
+.failure-image {
 }
-.failure-description{
-    
+.failure-details {
+}
+.title-2 {
+  font-size: 40px;
+  font-weight: 700;
+  margin-bottom: 24px;
+}
+.failure-description {
+  margin-bottom: 16px;
+}
+.failure-list {
+}
+ul li {
+  list-style: none;
+  margin-top: 16px;
+}
+ul i {
+  color: lightgreen;
 }
