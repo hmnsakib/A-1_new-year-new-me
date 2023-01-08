@@ -1,0 +1,21 @@
+* {
+  margin: 0;
+  font-family: "Work Sans", sans-serif;
+}
+header {
+  background-image: url(images/banner/banner3.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 1600;
+  height: 808;
+}
+.header-banner {
+    padding: 230px 230px;
+    text-align: right;
+}
+.title-1 {
+    
+}
+.header-discription {
+    
+}
