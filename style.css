@@ -112,7 +112,7 @@ ul i {
 
 /* email us section */
 .email-us {
-  background-color: lightskyblue;
+  background-image: linear-gradient(to right, #004791, #00abe3, #004791);
   margin: 0px 230px 130px 230px;
 }
 .title-4 {
