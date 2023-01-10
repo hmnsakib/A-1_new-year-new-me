@@ -9,7 +9,7 @@
 
 /* header section */
 header {
-  background-image: url(images/banner/banner3.png);
+  background-image: url(../images/banner/banner3.png);
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -97,7 +97,7 @@ ul i {
 .positive-mindset {
   height: 300px;
   margin: 0px 230px 130px 230px;
-  background-image: url(images/watch.png);
+  background-image: url(../images/watch.png);
   background-repeat: no-repeat;
 }
 .positive-court {
